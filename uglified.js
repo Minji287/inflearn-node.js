@@ -1,0 +1,1 @@
+function Hello(l){console.log("Hi,"+l)}Hello("minji");
